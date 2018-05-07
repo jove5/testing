@@ -34,7 +34,7 @@ This project uses a custom implementation of [Webpack](https://webpack.js.org/) 
 | **5/7**   | **PROJECT PROPOSALS!** Please have wireframes, user stories, ERDs, additional requirement you will tackle, and a project timeline for us to review.      
 | **5/8**   | Work on Priority Matrix, Pseudo code, divide work.                                                             
 | **5/9**     | Node js Express js, have ready modules and controllers.
-| **5/10**     | React day, component tree, create all functional and class components,       
+| **5/10**     | React day, component tree, create all functional and class components, authentication and react routes        
 | **5/11**     | React day 2, connect react with node (make functions) + function for API request       
 | **5/12-5/13**     | Working on CSS, Project Deployed and Presentation + Post MVP      
 | **5/14**            | **PROJECT PRESENTATIONS!**                 |
