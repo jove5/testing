@@ -1,12 +1,5 @@
 # React Travel app
 
-
-
-## Note
-This project uses a custom implementation of [Webpack](https://webpack.js.org/) (not [create-react-app](https://github.com/facebookincubator/create-react-app)). As such, it may be constructed differently than what you've seen until now. 
-
-
-
 ## Technologies used and concepts covered
 
  - Node.js / Express.js
@@ -24,6 +17,7 @@ This project uses a custom implementation of [Webpack](https://webpack.js.org/) 
 
 
 ### User Stories
+
 
 ## Project Timeline
 
